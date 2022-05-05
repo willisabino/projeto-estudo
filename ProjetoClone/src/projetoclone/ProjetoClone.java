@@ -10,6 +10,8 @@ public class ProjetoClone {
 		System.out.println("Criando conteúdo para branchs");
 		
 		System.out.println("Outra publicação");
+		
+		System.out.println("Mais uma publicação");
 	}
 
 }
