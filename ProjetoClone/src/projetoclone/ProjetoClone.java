@@ -8,6 +8,8 @@ public class ProjetoClone {
 		objeto.status();
 		
 		System.out.println("Criando conteúdo para branchs");
+		
+		System.out.println("Outra publicação");
 	}
 
 }
