@@ -3,8 +3,9 @@ package projetoclone;
 public class ProjetoClone {
 
 	public static void main(String[] args) {
-		System.out.println("Estou subindo um projeto no github");
+		ClasseTeste objeto = new ClasseTeste("Preto", 50, 155);
 
+		objeto.status();
 	}
 
 }
